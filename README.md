@@ -5,6 +5,6 @@ The language used to create the theme is css and php. we made it locally and upl
 
 Deployment: https://github.com/akm170221/CMS-F2F/blob/main/deployment.md 
 
-Theme: 
+Theme: https://github.com/akm170221/CMS-F2F/blob/main/theme.md
 
 Site: 
