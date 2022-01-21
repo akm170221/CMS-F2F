@@ -3,7 +3,7 @@ Our team has created its own theme and website. This is a business that sells or
 
 The language used to create the theme is css and php. we made it locally and uploaded it to Wordpress, and then to the staging and production site, then added a lot of content to complete our site.
 
-Deployment: 
+Deployment: https://github.com/akm170221/CMS-F2F/blob/main/deployment.md 
 
 Theme: 
 
