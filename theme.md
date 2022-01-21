@@ -10,10 +10,17 @@ style.css --> Change visual elements such as color, fonts, etc.
 The following PHP files are also modified from the ones provided in the starter theme:
 
 archive.php
+
 footer.php
+
 functions.php
+
 header.php
+
 index.php
+
 page.php
+
 sidebar.php
+
 single.php
