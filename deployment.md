@@ -1,4 +1,4 @@
-gsywhgs
+
 In Assignment2, we started with a discussion of the topic, a preliminary meeting on website design and how the group meetings would work. So we started to divide and record our work on Trello, in which all the members participated actively going in that direction. After that, we started deploying our site on Wordpress.
 
 We first created a Wordpress domain name and set up a website. On the main page, we invited all team members to participate in the common Wordpress website to edit our project. From the plugins, we have also downloaded a plug-in called starter template, which allows us to better serve and edit our site.
